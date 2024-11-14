@@ -1,11 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "Mathematical Analysis B3"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: " USTC, Department of Mathematics"
+date: 2024.9-2025.1
+location: "Hefei, China"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
