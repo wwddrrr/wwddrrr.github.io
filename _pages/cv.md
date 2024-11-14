@@ -61,7 +61,7 @@ OG denotes ongoing courses
 |--------|--------|
 | Probability Theory(96)| Mathematical Statistics(92)|
 |Applied Stochastic Processes(100)|Regression Analysis(OG)|
-|Time Series Analysis(OG)||
+|Time Series Analysis(OG)|Advanced Probability Theory(OG)|
 
 |Differential Equations||
 |-------|-------|
