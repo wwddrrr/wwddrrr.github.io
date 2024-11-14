@@ -11,54 +11,36 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Undergraduate, School of the Gifted Young, University of Science and Technology of China, 2022-now
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Grade
+=====
+GPA: 4.06/4.30
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+rank:2/46((Among all students majoring in Statistic in the School of Management at USTC))
+
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Languages: Python(pytorch), C, R, MATLAB, LATEX
+* English: TOEFL bu xiang xie, hao la ji
+
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+qwq no publications
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
+
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Fall 2024: Teaching Assistant
+  * Mathematical Analysis B3
+  * Sep.2024 ~ Jan.2025
   
-Service and leadership
+Awards
 ======
-* Currently signed in to 43 different slack teams
+- China National Scholarship<span style="color: lightgray;">(highest scholarship from Ministry of Education of China)</span>-2024
+- Outstanding Student Scholarship, Golden award <span style="color: lightgray;">(top 3%)</span>-2023
+- Mathematics Competition of Chinese College Student, First Prize at Provincial Level-2023
+
