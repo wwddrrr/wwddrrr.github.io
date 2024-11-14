@@ -44,3 +44,31 @@ Awards
 - Outstanding Student Scholarship, Golden award <span style="color: lightgray;">(top 3%)</span>-2023
 - Mathematics Competition of Chinese College Student, First Prize at Provincial Level-2023
 
+Relevant Coursework
+======
+OG denotes ongoing courses
+
+|Analysis | | 
+|--------|--------|
+| Mathematical Analysis (95,95,98)  | Real Analysis(97)  |
+| Complex Analysis(95) | Functional Analysis(OG)  |
+
+|Algebra | | 
+|--------|--------|
+| Linear Algebra (100 100)| Foundation of Algebra(96)  |
+
+|Probability and Statistics | | 
+|--------|--------|
+| Probability Theory(96)| Mathematical Statistics(92)|
+|Applied Stochastic Processes(100)|Regression Analysis(OG)|
+|Time Series Analysis(OG)||
+
+|Differential Equations||
+|-------|-------|
+|Differential Equations(96)||
+
+|Computer Science||
+|-----|------|
+|Applied Statistical Software(95)|Computer Programming(94)|
+
+
