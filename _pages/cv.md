@@ -50,7 +50,7 @@ OG denotes ongoing courses
 
 |Analysis | | 
 |--------|--------|
-| Mathematical Analysis (95,95,98)  | Real Analysis(97)  |
+| Mathematical Analysis (95,95,98)  | Real Analysis(99)  |
 | Complex Analysis(95) | Functional Analysis(OG)  |
 
 |Algebra | | 
