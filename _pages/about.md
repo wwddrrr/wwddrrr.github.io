@@ -13,7 +13,7 @@ My research interests includes：
 
 - Biostatistics
 - Applications of reinforcement learning
-- Hyperdimensional computing(applied in biostatics)
+- Hyperdimensional computing(applied in biostatistics)
 
 **My Email**: wwddrrr@mail.ustc.edu.cn
 
