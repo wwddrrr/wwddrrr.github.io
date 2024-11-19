@@ -1,3 +1,15 @@
+---
+layout: archive
+title: "Research"
+permalink: /research/
+author_profile: true
+redirect_from:
+  - /resume
+---
+
+{% include base_path %}
+
+
 **Machine Learning and Hyperdimensional Computing**
 
 <span style="color:lightgray; font-size: smaller;">Python, R    Collaborated with Yinan Bu</span>
