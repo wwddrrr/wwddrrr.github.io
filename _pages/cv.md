@@ -24,7 +24,7 @@ rank:2/46((Among all students majoring in Statistic in the School of Management 
 Skills
 ======
 * Languages: Python(pytorch), C, R, MATLAB, LATEX
-* English: TOEFL bu xiang xie, hao la ji
+* English: TOEFL-92
 
 
 Publications
