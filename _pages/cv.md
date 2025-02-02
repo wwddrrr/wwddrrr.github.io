@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+My cv is [here](./Dongrun_Wu_CV.pdf).
+
 Education
 ======
 * Undergraduate, School of the Gifted Young, University of Science and Technology of China, 2022-now
