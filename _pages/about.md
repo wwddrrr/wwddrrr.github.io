@@ -9,11 +9,14 @@ redirect_from:
 
 I am currently a junior majoring in Statistics at [School of the Gifted Young](https://en.scgy.ustc.edu.cn/), [University of Science and Technology of China](https://en.ustc.edu.cn/). 
 
-My research interests includes：
+
+### Research Interests
 
 - Biostatistics
 - Applications of reinforcement learning
-- Hyperdimensional computing(applied in biostatistics)
+- Machine Learning
 
-**My Email**: wwddrrr@mail.ustc.edu.cn
+### Contact  
+- **Email**: wwddrrr@mail.ustc.edu.cn  
+- [GitHub](https://github.com/wwddrrr) 
 
