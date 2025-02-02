@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-My cv is [here](../Dongrun_Wu_CV.pdf).
+My CV is [here](../Dongrun_Wu_CV.pdf).
 
 Education
 ======
@@ -20,7 +20,7 @@ Grade
 =====
 GPA: 4.06/4.30
 
-rank:2/46((Among all students majoring in Statistic in the School of Management at USTC))
+rank:2/46(Among all students majoring in Statistic in the School of Management at USTC)
 
 
 Skills
@@ -39,7 +39,7 @@ Teaching
 * Fall 2024: Teaching Assistant
   * Mathematical Analysis B3
   * Sep.2024 ~ Jan.2025
-  
+
 Awards
 ======
 - China National Scholarship<span style="color: lightgray;">(highest scholarship from Ministry of Education of China)</span>-2024
