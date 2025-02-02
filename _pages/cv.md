@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-My cv is [here](./Dongrun_Wu_CV.pdf).
+My cv is [here](../Dongrun_Wu_CV.pdf).
 
 Education
 ======
