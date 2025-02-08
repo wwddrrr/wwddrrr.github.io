@@ -60,14 +60,14 @@ Relevant Coursework
 | Mathematical Analysis | 95, 95, 98 |
 | Real Analysis | 99 |
 | Complex Analysis | 95 |
-| **Functional Analysis** | 100 |
+| Functional Analysis | 100 |
 
 ## Algebra  
 
 | Course | Score |
 |-------------------------|------|
 | Linear Algebra | 100, 100 |
-| **Foundation of Algebra** | 96 |
+| Foundation of Algebra | 96 |
 
 ## Probability and Statistics  
 
