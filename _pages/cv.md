@@ -18,7 +18,7 @@ Education
 
 Grade
 =====
-GPA: 4.06/4.30
+GPA: 4.10/4.30
 
 rank:2/46(Among all students majoring in Statistic in the School of Management at USTC)
 
