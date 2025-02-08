@@ -49,9 +49,9 @@ Awards
 Relevant Coursework
 ======
 
-*OG denotes ongoing courses*  
+*OG* denotes ongoing courses 
 
-**Bold denotes graduate-level courses**  
+**Bold** denotes graduate-level courses 
 
 ## Analysis  
 
@@ -81,8 +81,8 @@ Relevant Coursework
 | **Advanced Probability Theory** | 100 |
 | Fundamentals of Statistical Algorithm | 97 |
 | Machine Learning | 97 |
-| Multivariate Analysis | OG |
-| **Stochastic Processes** | OG |
+| Multivariate Analysis | *OG* |
+| **Stochastic Processes** | *OG* |
 
 ## Differential Equations  
 
