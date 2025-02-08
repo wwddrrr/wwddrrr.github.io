@@ -50,9 +50,11 @@ Relevant Coursework
 ======
 
 *OG* denotes ongoing courses  
+
 **Bold**  denotes graduate-level courses 
 
 ### Analysis  
+
 | Course | Score |
 |-------------------------|------|
 | Mathematical Analysis | 95, 95, 98 |
@@ -61,12 +63,14 @@ Relevant Coursework
 | Functional Analysis | 100 |
 
 ### Algebra  
+
 | Course | Score |
 |-------------------------|------|
 | Linear Algebra | 100, 100 |
 | Foundation of Algebra | 96 |
 
 ### Probability and Statistics  
+
 | Course | Score |
 |-----------------------------------|------|
 | Probability Theory | 96 |
@@ -81,11 +85,13 @@ Relevant Coursework
 | **Stochastic Processes** | *OG* |
 
 ### Differential Equations  
+
 | Course | Score |
 |-------------------------|------|
 | Differential Equations | 96 |
 
 ### Computer Science  
+
 | Course | Score |
 |------------------------------|------|
 | Applied Statistical Software | 95 |
