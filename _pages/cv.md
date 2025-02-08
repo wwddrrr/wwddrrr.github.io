@@ -49,31 +49,50 @@ Awards
 Relevant Coursework
 ======
 
-\*OG denotes ongoing courses
-**Bold** denotes graduate-level courses 
+*OG denotes ongoing courses*  
 
-|Analysis | | 
-|--------|--------|
-| Mathematical Analysis (95,95,98)  | Real Analysis(99)  |
-| Complex Analysis(95) | Functional Analysis(100)  |
+**Bold denotes graduate-level courses**  
 
-|Algebra | | 
-|--------|--------|
-| Linear Algebra (100 100)| Foundation of Algebra(96)  |
+## Analysis  
 
-|Probability and Statistics | | 
-|--------|--------|
-| Probability Theory(96)| Mathematical Statistics(92)|
-|Applied Stochastic Processes(100)|Regression Analysis(100)|
-|Time Series Analysis(100)|**Advanced Probability Theory(100)**|
-|Fundamentals of Statistical Algorithm(97)|Machine Learning(97)|
-|Multivariate Analysis(OG)|**Stochastic Processes(OG)**|
+| Course | Score |
+|-------------------------|------|
+| Mathematical Analysis | 95, 95, 98 |
+| Real Analysis | 99 |
+| Complex Analysis | 95 |
+| **Functional Analysis** | 100 |
 
-|Differential Equations||
-|-------|-------|
-|Differential Equations(96)||
+## Algebra  
 
-|Computer Science||
-|-----|------|
-|Applied Statistical Software(95)|Computer Programming(94)|
+| Course | Score |
+|-------------------------|------|
+| Linear Algebra | 100, 100 |
+| **Foundation of Algebra** | 96 |
 
+## Probability and Statistics  
+
+| Course | Score |
+|-----------------------------------|------|
+| Probability Theory | 96 |
+| Mathematical Statistics | 92 |
+| Applied Stochastic Processes | 100 |
+| Regression Analysis | 100 |
+| Time Series Analysis | 100 |
+| **Advanced Probability Theory** | 100 |
+| Fundamentals of Statistical Algorithm | 97 |
+| Machine Learning | 97 |
+| Multivariate Analysis | OG |
+| **Stochastic Processes** | OG |
+
+## Differential Equations  
+
+| Course | Score |
+|-------------------------|------|
+| Differential Equations | 96 |
+
+## Computer Science  
+
+| Course | Score |
+|------------------------------|------|
+| Applied Statistical Software | 95 |
+| Computer Programming | 94 |
