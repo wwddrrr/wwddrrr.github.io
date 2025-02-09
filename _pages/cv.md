@@ -39,6 +39,10 @@ Teaching
 * Fall 2024: Teaching Assistant
   * Mathematical Analysis B3
   * Sep.2024 ~ Jan.2025
+ 
+* Spring 2025: Teaching Assistant
+  * Linear Algebra B1
+  * Feb.2025 ~ Jun.2025
 
 Awards
 ======
