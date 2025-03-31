@@ -20,13 +20,13 @@ Grade
 =====
 GPA: 4.10/4.30
 
-rank:2/46(Among all students majoring in Statistic in the School of Management at USTC)
+rank:1/47(Among all students majoring in Statistic in the School of Management at USTC)
 
 
 Skills
 ======
 * Languages: Python(pytorch), C, R, MATLAB, LATEX
-* English: TOEFL-92
+* English: TOEFL-95
 
 
 Publications
