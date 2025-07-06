@@ -18,7 +18,7 @@ Education
 
 Grade
 =====
-GPA: 4.10/4.30
+GPA: 4.11/4.30
 
 rank:1/47(Among all students majoring in Statistic in the School of Management at USTC)
 
@@ -85,8 +85,8 @@ Relevant Coursework
 | **Advanced Probability Theory** | 100 |
 | Fundamentals of Statistical Algorithm | 97 |
 | Machine Learning | 97 |
-| Multivariate Analysis | *OG* |
-| **Stochastic Processes** | *OG* |
+| Multivariate Analysis | 90 |
+| **Stochastic Processes** | 97 |
 
 ## Differential Equations  
 
