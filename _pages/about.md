@@ -12,9 +12,8 @@ I am currently a junior majoring in Statistics at [School of the Gifted Young](h
 
 ### Research Interests
 
-- Biostatistics
+- Statistical Machine Learning
 - Applications of reinforcement learning
-- Machine Learning
 
 ### Contact  
 - **Email**: wwddrrr@mail.ustc.edu.cn  
