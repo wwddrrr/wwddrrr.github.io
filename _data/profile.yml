@@ -1,0 +1,56 @@
+primary_name: "Dongrun Wu"
+secondary_name: ""
+navbar_name: "Dongrun Wu"
+
+positions:
+- name: Ph.D. Student
+- name: Department of Mathematics, National University of Singapore
+
+email: "dongrun.wu@u.nus.edu"
+# cv_link: link-to-your-cv-file
+# gscholar: your-google-scholar-id
+github: wwddrrr
+# twitter: your_twitter_id  # Do not include the '@' symbol
+# linkedin: your-linked-in-id
+# orcid: 0000-0000-0000-0000
+
+short_bio_text_justify: false
+short_bio: >-
+  <p>
+    Since August 2026, I have been a Ph.D. student in the Department of Mathematics at the National University of Singapore,
+    advised by Prof. <a href="https://vyftan.github.io/" target="_blank">Vincent Tan</a>
+    and co-advised by Prof. <a href="https://blog.nus.edu.sg/zhenhua/" target="_blank">Zhenhua Lin</a>.
+    Before joining NUS, I received my bachelor's degree in Statistics from the School of the Gifted Young,
+    University of Science and Technology of China, under the guidance of Prof.
+    <a href="https://bs.ustc.edu.cn/english/profile.php?id=650" target="_blank">Xueqin Wang</a>.
+  </p>
+  <p>
+    My research interests include conformal prediction, non-Euclidean statistics, and statistical machine learning.
+    If you are interested in my research, I would be happy to hear from you.
+  </p>
+
+# portrait_url: /assets/images/photos/portrait.jpg
+# portrait_caption: optional caption shown when hovering over the photo
+
+education:
+- name: National University of Singapore
+  logo: /assets/images/badges/nus.png
+  dept: Department of Mathematics
+  position: Ph.D. Student
+  date: Aug. 2026 - present
+- name: University of Science and Technology of China
+  logo: /assets/images/badges/ustc.png
+  dept: School of the Gifted Young
+  position: B.S. in Statistics
+  date: Sep. 2022 - Jun. 2026
+
+# experience:
+# - name: Organization
+#   position: Role
+#   date: 2024 - 2025
+
+awards:
+- name: China National Scholarship
+  date: 2025
+- name: China National Scholarship
+  date: 2024
